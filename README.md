@@ -1,8 +1,6 @@
 # IMDB-Data-Warehousing-and-Business-Intelligence
 
-•	Extracted the structed and unstructured data from different source systems
-
-•	Performed data wrangling and ingested more than 75 million records into the Staging schema (On-premises & Cloud servers) using Alteryx
+•	Extracted the structed and unstructured data from different source systems and performed data wrangling and ingested more than 75 million records into the Staging schema (On-premises & Cloud servers) using Alteryx
 
 •	Integrated data into star schema data model and developed pipelines implementing Analytical Data Architecture
 
